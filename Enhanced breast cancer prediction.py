@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Breast Cancer Prediction Project
 
-This notebook is prepared by Lasya Varma for research and analysis.
+This code is prepared by Lasya Varma for research and analysis.
 """
 
 
